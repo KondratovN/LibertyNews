@@ -123,6 +123,7 @@ body {
 }
 .big_news_block:hover {
   text-decoration: underline;
+  color: #000000;
 }
 @media (max-width: 600px) {
   .big_news_block {
@@ -219,6 +220,7 @@ body {
 }
 .blog-item:hover {
   text-decoration: underline;
+  color: #000000;
 }
 
 .blog-img {

@@ -121,7 +121,7 @@ body {
     text-decoration: none;
     &:hover {
         text-decoration: underline;
-        color: black;
+        color: #000000;
     }
 
     @media (max-width: 600px) {
@@ -206,6 +206,7 @@ body {
     text-decoration: none;
     &:hover {
         text-decoration: underline;
+        color: #000000;
     }
 }
 
